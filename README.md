@@ -4,14 +4,14 @@ This portfolio is designed to impress recruiters and clients with smooth animati
 
 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://melodic-tapioca-694f1d.netlify.app/)
+🔗 [View Portfolio Live](https://umair-s-portfolio.vercel.app/)
 
 🛠️ Tech Stack
 ⚛️ React.js
 
 🎨 Tailwind CSS
 
-💾 Netlify (for deployment)
+💾 Vercel (for deployment)
 
 📁 Features
 Fully responsive design for mobile, tablet, and desktop 📱💻
